@@ -1,5 +1,5 @@
-# byblog
-个人博客
+# byblog-react
+byblog博客reactjs重写
 
 # 演示地址：[http://weber.pub/](http://weber.pub/)
 
