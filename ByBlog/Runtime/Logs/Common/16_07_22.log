@@ -1,0 +1,12 @@
+[ 2016-07-22T11:08:08+08:00 ] ::1 /byblog/index.php/Blog/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Blog
+
+[ 2016-07-22T13:43:17+08:00 ] ::1 /byblog/index.php/Blog/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Blog
+
